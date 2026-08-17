@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.8.1](https://github.com/openai/openai-cli/compare/v1.8.0...v1.8.1) (2026-08-17)
+
+
+### Chores
+
+* **api:** Refresh the bundled OpenAPI reference ([#66](https://github.com/openai/openai-cli/issues/66)) ([d14387a](https://github.com/openai/openai-cli/commit/d14387a46865b8d227d3a1d607dfd40143904047))
+* **deps:** update openai-go to v3.51.0 ([#63](https://github.com/openai/openai-cli/issues/63)) ([68e3e70](https://github.com/openai/openai-cli/commit/68e3e707ef68bebda13e638fafdb4a882ccafedc))
+* **deps:** update openai-go to v3.52.0 ([#67](https://github.com/openai/openai-cli/issues/67)) ([7d87ee2](https://github.com/openai/openai-cli/commit/7d87ee207c9515e2f147ecf32aadf29f4c3d1ce9))
+
 ## [1.8.0](https://github.com/openai/openai-cli/compare/v1.7.1...v1.8.0) (2026-08-14)
 
 
